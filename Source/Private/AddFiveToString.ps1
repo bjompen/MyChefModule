@@ -3,5 +3,5 @@ function AddFiveToString {
         $String
     )
     
-    Write-Output "$String - Five"
+    Write-Output "$String - 5"
 }
